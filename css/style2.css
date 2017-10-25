@@ -1,0 +1,12 @@
+.parallax {
+	background-image: url("https://static7.depositphotos.com/1000432/744/i/950/depositphotos_7443982-stock-photo-silhouette-of-tree.jpg");
+}
+
+body {
+	background-color: red;
+}
+
+h1 {
+	color: pink;
+	font-size: 575%;
+}
